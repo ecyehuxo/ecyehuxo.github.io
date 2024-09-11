@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://ecyehuxo.github.io/sitemap/sitemap.txt
